@@ -15,16 +15,33 @@
 	],
 	"support": {
 		"email": "info@bit3.de",
-		"issues": "https://github.com/avisota/contao-history/issues",
+		"issues": "https://avisota.atlassian.net",
 		"forum": "https://community.contao.org/de/forumdisplay.php?121-Avisota",
 		"wiki": "http://de.contaowiki.org/Kategorie:Avisota",
-		"irc": "irc://irc.freenode.org/contao.dev",
-		"source": "https://github.com/avisota/contao-history"
+		"irc": "irc://irc.freenode.org/avisota"
 	},
 	"require": {
-		"avisota/contao": "self.version",
-		"avisota/contao-history": "self.version",
-		"avisota/contao-renderer-mail-chimp": "self.version"
+		"avisota/contao-core": "*",
+		"avisota/contao-history": "*",
+		"avisota/contao-message": "*",
+		"avisota/contao-message-element-article": "*",
+		"avisota/contao-message-element-event": "*",
+		"avisota/contao-message-element-gallery": "*",
+		"avisota/contao-message-element-headline": "*",
+		"avisota/contao-message-element-hyperlink": "*",
+		"avisota/contao-message-element-image": "*",
+		"avisota/contao-message-element-list": "*",
+		"avisota/contao-message-element-news": "*",
+		"avisota/contao-message-element-table": "*",
+		"avisota/contao-message-element-text": "*",
+		"avisota/contao-renderer-backend": "*",
+		"avisota/contao-renderer-mailchimp": "*",
+		"avisota/contao-salutation": "*",
+		"avisota/contao-subscription-member": "*",
+		"avisota/contao-subscription-recipient": "*"
+	},
+	"replace": {
+		"avisota/contao": "self.version"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,
