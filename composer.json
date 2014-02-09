@@ -21,24 +21,24 @@
 		"irc": "irc://irc.freenode.org/avisota"
 	},
 	"require": {
-		"avisota/contao-core": "*",
-		"avisota/contao-history": "*",
-		"avisota/contao-message": "*",
-		"avisota/contao-message-element-article": "*",
-		"avisota/contao-message-element-event": "*",
-		"avisota/contao-message-element-gallery": "*",
-		"avisota/contao-message-element-headline": "*",
-		"avisota/contao-message-element-hyperlink": "*",
-		"avisota/contao-message-element-image": "*",
-		"avisota/contao-message-element-list": "*",
-		"avisota/contao-message-element-news": "*",
-		"avisota/contao-message-element-table": "*",
-		"avisota/contao-message-element-text": "*",
-		"avisota/contao-renderer-backend": "*",
-		"avisota/contao-renderer-mailchimp": "*",
-		"avisota/contao-salutation": "*",
-		"avisota/contao-subscription-member": "*",
-		"avisota/contao-subscription-recipient": "*"
+		"avisota/contao-core": "~2.0",
+		"avisota/contao-history": "~2.0",
+		"avisota/contao-message": "~2.0",
+		"avisota/contao-message-element-article": "~2.0",
+		"avisota/contao-message-element-event": "~2.0",
+		"avisota/contao-message-element-gallery": "~2.0",
+		"avisota/contao-message-element-headline": "~2.0",
+		"avisota/contao-message-element-hyperlink": "~2.0",
+		"avisota/contao-message-element-image": "~2.0",
+		"avisota/contao-message-element-list": "~2.0",
+		"avisota/contao-message-element-news": "~2.0",
+		"avisota/contao-message-element-table": "~2.0",
+		"avisota/contao-message-element-text": "~2.0",
+		"avisota/contao-renderer-backend": "~2.0",
+		"avisota/contao-renderer-mailchimp": "~2.0",
+		"avisota/contao-salutation": "~2.0",
+		"avisota/contao-subscription-member": "~2.0",
+		"avisota/contao-subscription-recipient": "~2.0"
 	},
 	"replace": {
 		"avisota/contao": "self.version"
@@ -47,8 +47,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"branch-alias": {
-			"dev-master": "2.0.x-dev",
-			"dev-develop": "2.0.x-dev"
+			"dev-master": "2.x-dev"
 		}
 	}
 }
