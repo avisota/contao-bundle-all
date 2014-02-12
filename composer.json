@@ -2,7 +2,7 @@
 	"name": "avisota/contao-bundle-all",
 	"description": "Install all Contao components for Avisota.",
 	"keywords": ["avisota", "email", "mail", "newsletter", "marketing"],
-	"type": "meta-package",
+	"type": "metapackage",
 	"homepage": "http://avisota.org",
 	"license": "LGPL-3.0+",
 	"authors": [
