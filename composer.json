@@ -37,6 +37,7 @@
 		"avisota/contao-renderer-backend": "~2.0",
 		"avisota/contao-renderer-mailchimp": "~2.0",
 		"avisota/contao-salutation": "~2.0",
+		"avisota/contao-subscription": "~2.0",
 		"avisota/contao-subscription-member": "~2.0",
 		"avisota/contao-subscription-recipient": "~2.0"
 	},
