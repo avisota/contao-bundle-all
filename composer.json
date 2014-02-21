@@ -25,6 +25,8 @@
 		"avisota/contao-history": "~2.0",
 		"avisota/contao-message": "~2.0",
 		"avisota/contao-message-element-article": "~2.0",
+		"avisota/contao-message-element-download": "~2.0",
+		"avisota/contao-message-element-downloads": "~2.0",
 		"avisota/contao-message-element-event": "~2.0",
 		"avisota/contao-message-element-gallery": "~2.0",
 		"avisota/contao-message-element-headline": "~2.0",
