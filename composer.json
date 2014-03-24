@@ -22,7 +22,6 @@
 	},
 	"require": {
 		"avisota/contao-core": "2.0.*",
-		"avisota/contao-history": "2.0.*",
 		"avisota/contao-message": "2.0.*",
 		"avisota/contao-message-element-article": "2.0.*",
 		"avisota/contao-message-element-download": "2.0.*",
