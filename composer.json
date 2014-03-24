@@ -42,7 +42,7 @@
 		"avisota/contao-subscription-recipient": "2.0.*"
 	},
 	"conflict": {
-		"avisota/contao": "self.version"
+		"avisota/contao": "*"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,
