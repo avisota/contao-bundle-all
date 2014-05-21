@@ -41,9 +41,9 @@
 		"avisota/contao-message-element-news": ">=2.0-RC3,<2.1-dev",
 		"avisota/contao-message-element-table": ">=2.0-RC2,<2.1-dev",
 		"avisota/contao-message-element-text": ">=2.0-RC2,<2.1-dev",
-		"avisota/contao-message-renderer-mailchimp": ">=2.0-RC1,<2.1-dev",
+		"avisota/contao-message-renderer-mailchimp": ">=2.0-RC3,<2.1-dev",
 		"avisota/contao-salutation": ">=2.0-RC3,<2.1-dev",
-		"avisota/contao-subscription": ">=2.0-RC1,<2.1-dev",
+		"avisota/contao-subscription": ">=2.0-RC2,<2.1-dev",
 		"avisota/contao-subscription-notification-center-bridge": ">=2.0-RC2,<2.1-dev",
 		"avisota/contao-subscription-recipient": ">=2.0-RC2,<2.1-dev"
 	},
