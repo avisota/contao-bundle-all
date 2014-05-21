@@ -60,6 +60,10 @@
 	"repositories": [
 		{
 			"type": "vcs",
+			"url": "https://bitbucket.org/avisota/core.git"
+		},
+		{
+			"type": "vcs",
 			"url": "https://bitbucket.org/avisota/contao-core.git"
 		},
 		{
