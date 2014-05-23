@@ -27,7 +27,7 @@
 		"irc": "irc://irc.freenode.org/avisota"
 	},
 	"require": {
-		"avisota/contao-core": ">=2.0-RC6,<2.1-dev",
+		"avisota/contao-core": ">=2.0-RC7,<2.1-dev",
 		"avisota/contao-message": ">=2.0-RC7,<2.1-dev",
 		"avisota/contao-message-element-article": ">=2.0-RC3,<2.1-dev",
 		"avisota/contao-message-element-download": ">=2.0-RC3,<2.1-dev",
