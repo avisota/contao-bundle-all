@@ -69,11 +69,11 @@
 		},
 		{
 			"type": "vcs",
-			"url": "https://bitbucket.org/avisota/contao-history.git"
+			"url": "https://bitbucket.org/avisota/contao-message.git"
 		},
 		{
 			"type": "vcs",
-			"url": "https://bitbucket.org/avisota/contao-message.git"
+			"url": "https://bitbucket.org/avisota/contao-message-analytics-ga.git"
 		},
 		{
 			"type": "vcs",
