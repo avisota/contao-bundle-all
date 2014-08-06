@@ -45,6 +45,7 @@
 		"avisota/contao-message-renderer-mailchimp": ">=2.0,<2.1-dev",
 		"avisota/contao-salutation": ">=2.0,<2.1-dev",
 		"avisota/contao-subscription": ">=2.0,<2.1-dev",
+		"avisota/contao-subscription-member": ">=2.0,<2.1-dev",
 		"avisota/contao-subscription-notification-center-bridge": ">=2.0,<2.1-dev",
 		"avisota/contao-subscription-recipient": ">=2.0,<2.1-dev"
 	},
