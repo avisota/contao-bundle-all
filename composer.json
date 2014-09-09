@@ -40,6 +40,7 @@
 		"avisota/contao-message-element-image": ">=2.0,<2.1-dev",
 		"avisota/contao-message-element-list": ">=2.0,<2.1-dev",
 		"avisota/contao-message-element-news": ">=2.0,<2.1-dev",
+		"avisota/contao-message-element-salutation": ">=2.0,<2.1-dev",
 		"avisota/contao-message-element-table": ">=2.0,<2.1-dev",
 		"avisota/contao-message-element-text": ">=2.0,<2.1-dev",
 		"avisota/contao-message-renderer-mailchimp": ">=2.0,<2.1-dev",
