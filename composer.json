@@ -33,7 +33,7 @@
 		"irc": "irc://irc.freenode.org/avisota"
 	},
 	"require": {
-		"avisota/contao-core": ">2.2,<2.3",
+		"avisota/contao-core": ">2.2.2,<2.3",
 		"avisota/contao-message": ">2.0.8,<2.1",
 		"avisota/contao-message-analytics-ga": ">2.0,<2.1",
 		"avisota/contao-message-element-article": ">2.0,<2.1",
