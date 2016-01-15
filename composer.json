@@ -63,7 +63,7 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-release/2.0": "2.0.x-dev"
+            "dev-release/2.0": "3.0.x-dev"
         }
     },
     "repositories": [
