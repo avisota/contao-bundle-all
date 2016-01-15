@@ -69,91 +69,91 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/core.git"
+            "url": "https://github.com/avisota//core.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-core.git"
+            "url": "https://github.com/avisota//contao-core.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message.git"
+            "url": "https://github.com/avisota//contao-message.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-analytics-ga.git"
+            "url": "https://github.com/avisota//contao-message-analytics-ga.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-article.git"
+            "url": "https://github.com/avisota//contao-message-element-article.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-download.git"
+            "url": "https://github.com/avisota//contao-message-element-download.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-downloads.git"
+            "url": "https://github.com/avisota//contao-message-element-downloads.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-event.git"
+            "url": "https://github.com/avisota//contao-message-element-event.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-gallery.git"
+            "url": "https://github.com/avisota//contao-message-element-gallery.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-headline.git"
+            "url": "https://github.com/avisota//contao-message-element-headline.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-hyperlink.git"
+            "url": "https://github.com/avisota//contao-message-element-hyperlink.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-image.git"
+            "url": "https://github.com/avisota//contao-message-element-image.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-list.git"
+            "url": "https://github.com/avisota//contao-message-element-list.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-news.git"
+            "url": "https://github.com/avisota//contao-message-element-news.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-table.git"
+            "url": "https://github.com/avisota//contao-message-element-table.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-text.git"
+            "url": "https://github.com/avisota//contao-message-element-text.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-renderer-mailchimp.git"
+            "url": "https://github.com/avisota//contao-message-renderer-mailchimp.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-salutation.git"
+            "url": "https://github.com/avisota//contao-salutation.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription.git"
+            "url": "https://github.com/avisota//contao-subscription.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription-member.git"
+            "url": "https://github.com/avisota//contao-subscription-member.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription-notification-center-bridge.git"
+            "url": "https://github.com/avisota//contao-subscription-notification-center-bridge.git"
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription-recipient.git"
+            "url": "https://github.com/avisota//contao-subscription-recipient.git"
         }
     ]
 }
