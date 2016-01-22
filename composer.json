@@ -33,28 +33,28 @@
         "irc": "irc://irc.freenode.org/avisota"
     },
     "require": {
-        "avisota/contao-core": "~2.2, >2.2.6",
-        "avisota/contao-message": "~2.0.10",
-        "avisota/contao-message-analytics-ga": "~2.0",
-        "avisota/contao-message-element-article": "~2.0",
-        "avisota/contao-message-element-download": "~2.0",
-        "avisota/contao-message-element-downloads": "~2.0",
-        "avisota/contao-message-element-event": "~2.0",
-        "avisota/contao-message-element-gallery": "~2.0",
-        "avisota/contao-message-element-headline": "~2.0",
-        "avisota/contao-message-element-hyperlink": "~2.0",
-        "avisota/contao-message-element-image": "~2.0",
-        "avisota/contao-message-element-list": "~2.0",
-        "avisota/contao-message-element-news": "~2.0",
-        "avisota/contao-message-element-salutation": "~2.0",
-        "avisota/contao-message-element-table": "~2.0",
-        "avisota/contao-message-element-text": "~2.0",
-        "avisota/contao-message-renderer-mailchimp": "~2.0",
-        "avisota/contao-salutation": "~2.0",
-        "avisota/contao-subscription": "~2.0",
-        "avisota/contao-subscription-member": "~2.0",
-        "avisota/contao-subscription-notification-center-bridge": "~2.0",
-        "avisota/contao-subscription-recipient": "~2.0"
+        "avisota/contao-core": "3.0.x-dev",
+        "avisota/contao-message": "3.0.x-dev",
+        "avisota/contao-message-analytics-ga": "3.0.x-dev",
+        "avisota/contao-message-element-article": "3.0.x-dev",
+        "avisota/contao-message-element-download": "3.0.x-dev",
+        "avisota/contao-message-element-downloads": "3.0.x-dev",
+        "avisota/contao-message-element-event": "3.0.x-dev",
+        "avisota/contao-message-element-gallery": "3.0.x-dev",
+        "avisota/contao-message-element-headline": "3.0.x-dev",
+        "avisota/contao-message-element-hyperlink": "3.0.x-dev",
+        "avisota/contao-message-element-image": "3.0.x-dev",
+        "avisota/contao-message-element-list": "3.0.x-dev",
+        "avisota/contao-message-element-news": "3.0.x-dev",
+        "avisota/contao-message-element-salutation": "3.0.x-dev",
+        "avisota/contao-message-element-table": "3.0.x-dev",
+        "avisota/contao-message-element-text": "3.0.x-dev",
+        "avisota/contao-message-renderer-mailchimp": "3.0.x-dev",
+        "avisota/contao-salutation": "3.0.x-dev",
+        "avisota/contao-subscription": "3.0.x-dev",
+        "avisota/contao-subscription-member": "3.0.x-dev",
+        "avisota/contao-subscription-notification-center-bridge": "3.0.x-dev",
+        "avisota/contao-subscription-recipient": "3.0.x-dev"
     },
     "conflict": {
         "avisota/contao": "*"
@@ -63,97 +63,9 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-release/2.0": "2.0.x-dev"
+            "dev-develop": "3.0.x-dev"
         }
     },
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/core.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-core.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-analytics-ga.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-article.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-download.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-downloads.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-event.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-gallery.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-headline.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-hyperlink.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-image.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-list.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-news.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-table.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-element-text.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-message-renderer-mailchimp.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-salutation.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription-member.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription-notification-center-bridge.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://bitbucket.org/avisota/contao-subscription-recipient.git"
-        }
     ]
 }
